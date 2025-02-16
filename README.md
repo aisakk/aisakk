@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">- 👨‍💻 Todos mi proyectos estan visible en mi portafolio: https://aisakk.github.io/portafolio<br><br>- 📱 Celular: https://wa.me/584262569864<br><br>- 💬 Preguntame por **frontend | backend**<br><br>- 📫 Enviame un correo a **santaellaisaac2@gmail.com**</p>
+<p align="left">- 👨‍💻 Todos mi proyectos estan visible en mi portafolio: https://aisakk.github.io/portafolio<br><br>- 📱 Celular: https://wa.me/584262569864<br><br>- 💬 Preguntame por <strong>frontend | backend</strong><br><br>- 📫 Enviame un correo a <strong>santaellaisaac2@gmail.com</strong></p>
 
 ###
 
