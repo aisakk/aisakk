@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Apasionado por la tecnologia, Frontend, soy de Venezuela.</p>
+<p align="left">Apasionado por la tecnologia,me dedico al Frontend aunque tambien puedo trabajar de full stack, soy de Venezuela.</p>
 
 ###
 
